@@ -1,16 +1,6 @@
-[0]
-
-insert names as displayed on the page here
-
-[1]
-
-I once saw it in a book.
-
+<!-- Page 0 --> insert names as displayed on the page here
+<!-- Page 1 --> I once saw it in a book.
 A mysterious plant from the far east.
-
-It takes a thousand years for the flowers to open
-and a thousand years for them to fall
-
+It takes a thousand years for the flowers to open<br>and a thousand years for them to fall
 The flowers and the leaves never see each other.
-
 Now... Bronya will never be separated from Seele again.
