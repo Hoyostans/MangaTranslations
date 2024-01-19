@@ -1,4 +1,4 @@
-function (LangReplace()) {
+function LangReplace() {
     fetch("https://raw.githubusercontent.com/Hoyostans/MangaTranslations/main/AWtest_CN.txt")
         .then(function (res) {
             return res.text();
