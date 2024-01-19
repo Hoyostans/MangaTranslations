@@ -1,16 +1,7 @@
-[0]
-
-cuir isteach ainmneacha mar a thaispeántar ar an leathanach anseo
-
-[1]
-
-Chonaic mé uair amháin i leabhar é.
-
+<!-- Page 0 --> cuir isteach ainmneacha mar a thaispeántar ar an leathanach anseo
+<!-- Page 1 --> Chonaic mé uair amháin i leabhar é.
 Planda mistéireach ón bhfad soir.
-
 Tógann sé míle bliain do na bláthanna a oscailt
 agus míle bliadhain dóibh do thuitim
-
 Ní fheiceann na bláthanna agus na duilleoga a chéile riamh.
-
 Anois... Ní scarfar Bronya ó Seele arís.
