@@ -16,9 +16,10 @@ while True:
     img_url = url
     print(img_url)
     try:
-        urllib.request.urlretrieve(img_url, str(mangano)+str(bookno)+str(pageno)[1:5]+".jpg")
-        pageno = int(pageno)+1
+        urllib.request.urlretrieve(img_url, str(langver.upper())+str(mangano)+str(bookno)+str(pageno)[1:5]+".jpg")
+        pageno = int(pageno)+1 
         failno = 0
+        print("Success")
     except:
         bookno = bookno+1
         pageno = 10001
