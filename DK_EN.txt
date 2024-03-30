@@ -36,3 +36,4 @@ This time, the war would last thousands of years.
 <!-- Page 13 --> Honkai -News- <br> Schicksal Archive Department Database Update Notice
 According to the recent investigation results of the Schicksal Archeological Department on the ancient relic A-62, a number of names of characters from the Previous Era civilisation have been confirmed through research and comparison. Therefore, AI-chan will replace the names of the respective characters:
 李耳 → 萧云<br>伏羲 → 苍玄<br>女娲 → 丹朱<br>神农 → 连山<br>精卫 → 赤鸢<br>姬轩辕→姬麟
+Due to reasons we have yet to confirm, several characters had their names changed for the official Chinese version of the story. However, the English version retained the original versions of their names.
