@@ -1,7 +1,7 @@
 <!-- Page 0 --> <b>Secrets of Xuanyuan Sword</b> <br> Main Author: Ego_TDC24 <br> Assistants: 雨宫, 洛子, evemace
 <!-- Page 1 --> On this planet, the Honkai grows with civilisation.
 The more human civilisation develops, the stronger the Honkai's restraints on it become.
-<!-- Page 2 --> Over 52.000 years ago, a previous generation of humans on Earth had developed a high level civilisation.
+<!-- Page 2 --> Over fifty-two thousand years ago, a previous generation of humans on Earth had developed a high level civilisation.
 In order to inhibit the continued development of this civilisation, beings with a human form, yet supernatural in kind, were born from the Honkai: "The Herrscher"
 The Sixth Herrscher accelerated the apoptosis of living cells:<br> "The Herrscher of Death"
 The Seventh Herrscher controlled the motions of molecules:<br> "The Herrscher of Flame"
@@ -23,3 +23,16 @@ Recreating the power of the Herrscher of Flame, the dual pistols harness the ult
 The Xuanyuan sword contains the power of six Herrschers, including Thunder, Flame and Ice. As long as certain conditions are met, it may absorb and fuse the powers of other Herrschers.
 Relying on these thirteen weapons, humanity gradually acquired an advantage in the war against the Honkai-
 <!-- Page 8 --> However, facing the "Last Herrscher", humanity's hope was crushed.
+<!-- Page 9 --> The downfall of mankind was inevitable, but MEI refused to give up.
+She knew that when the next civilisation of Earth would be born, the Honkai would surely occur once more. Thus... she planted the "Seeds of Revenge"
+She transcribed her life long research into human genes. When these recessive genetic factors would express in the next generation of humans, they would display "stigmata".
+Youn girls with these genetic factors were shielded in safe pods, waiting to be awoken tens of thousands of years into the future.
+<!-- Page 10 --> The twin girls responsible for guarding Xuanyuan Sword were called Fuxi and Nuwa.
+<!-- Page 11 --> Fifty thousand years later, civilisation had been reborn in this land called "Shenzhou", and the Honkai... also awakened.
+The twin girls woke up from their deep sleep and after a long journey, they finally found a warrior fit to inherit the Xuanyuan Sword.
+The moment the girl named Ji Xuanyuan picked up the Xuanyuan Sword, the stigmata imprinted in her bloodline awakened.
+<!-- Page 12 --> And so, between humanity's hatred for the Honkai and Honkai's hatred for humanity, the war of fate had begun once more.
+This time, the war would last thousands of years.
+<!-- Page 13 --> Honkai -News- <br> Schicksal Archive Department Database Update Notice
+According to the recent investigation results of the Schicksal Archeological Department on the ancient relic A-62, a number of names of characters from the Previous Era civilisation have been confirmed through research and comparison. Therefore, AI-chan will replace the names of the respective characters:
+李耳 → 萧云<br>伏羲 → 苍玄<br>女娲 → 丹朱<br>神农 → 连山<br>精卫 → 赤鸢<br>姬轩辕→姬麟
