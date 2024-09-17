@@ -38,7 +38,7 @@ This time, the war would last thousands of years.
 According to the recent investigation results of the Schicksal Archeological Department on the ancient relic A-62, a number of names of characters from the Previous Era civilisation have been confirmed through research and comparison. Therefore, AI-chan will replace the names of the respective characters:
 Li Er → Xiao Yun <br> Fuxi → Cang Xuan <br> Nuwa → Dan Zhu <br> Shennong → Lianshan <br> Jingwei → Chiyuan <br> Ji Xuanyuan → Ji Lin
 Due to reasons we have yet to confirm, several characters had their names changed for the official Chinese version of the story. However, the English version retained the original versions of their names.
-<!--First Chapter--><!-- Page 0 --><b>Jizo Mitama</b> Main Writer: Ego TDC24 Assistants: 洛子, RFF, KUMAKO
+<!--First Chapter--><!-- Page 0 --><b>Jizo Mitama</b><br>Main Writer: Ego TDC24<br>Assistants: 洛子, RFF, KUMAKO
 <!-- Page 1 --> On this planet, the Honkai grows with civilisation.
 The more human civilisation develops, the stronger the Honkai's restraints on it become.
 <!-- Page 2 --> Every time a Herrscher is defeated, humans pay a heavy price.
@@ -97,3 +97,9 @@ Later, as a result of circumstance, the box was opened by a shrine maiden named 
 But there was still a glimmer of hope in her heart.
 Finally, after 500 years, with the help of some brave Valkyries--
 Yae Sakura defeated the Herrscher's consciousness and regained her self.
+<!-- Page 20 --> On the other side, at the moment the Twelfth herrscher's consciousness gave up on resisting,
+The black box initiated the execution of the instructions left by Dr MEI before her passing.
+50.000 years late, the Twelfth Divine Key was finalised.
+This story is the tragedy of a young girl.
+It is also the tragedy of the whole world.
+<!-- Page 21 --> But we still can't tell which was the victim.
