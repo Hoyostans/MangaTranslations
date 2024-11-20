@@ -1,17 +1,17 @@
 <!-- Page 0 --> <b>Secrets of Xuanyuan Sword</b> <br> Main Author: Ego_TDC24 <br> Assistants: 雨宫, 洛子, evemace
 <!-- Page 1 --> On this planet, the Honkai grows with civilisation.
 The more human civilisation develops, the stronger the Honkai's restraints on it become.
-<!-- Page 2 --> Over fifty-two thousand years ago, a previous generation of humans on Earth had developed a high level civilisation.
-In order to inhibit the continued development of this civilisation, beings with a human form, yet supernatural in kind, were born from the Honkai: "The Herrscher"
+<!-- Page 2 --> Over 52.000 years ago, a previous generation of humans on Earth had developed a high level civilisation.
+In order to inhibit the continued development of this civilisation, beings with a human form, yet supernatural in kind, were born from the Honkai: "Herrschers"
 The Sixth Herrscher accelerated the apoptosis of living cells:<br> "The Herrscher of Death"
 The Seventh Herrscher controlled the motions of molecules:<br> "The Herrscher of Flame"
 The Fourth Herrscher could create perfect fluids:<br> "The Herrscher of Wind"
-The Third Herrscher could control the electromagnetic field:<br> "The Herrscher of Thunder'
+The Third Herrscher controlled electromagnetic fields:<br> "The Herrscher of Thunder'
 <!-- Page 3 --> The Herrschers' abilities were extremely powerful.
-But with the support of a power called "technology", humans have defeated Herrschers time and again.
-<!-- Page 4 --> In order to battle the Herrschers, which were becoming more and more evolved, humanity began to study their secrets.
+But with the support of a power called "technology", humans defeated Herrschers time and again.
+<!-- Page 4 --> In order to battle the Herrschers, which were becoming increasingly evolved, humanity began to study their secrets.
 By sealing the remnants of the "Fragmented Herrscher Cores"
-in Soulium made from nano machines, humans created "weapons".
+in Soulium made from nano machines, the humans created "weapons".
 <!-- Page 5 --> But humanity was not satisfied with this. Under the leadership of MEI, a top scientist of that civilisation, mankind strode deeper into the field.
 To seek the origin of the Honkai was taboo research, and the material used for that research was the Herrscher Cores.
 <!-- Page 6 --> Although humanity could not completely analyse the Herrscher Cores, they eventually managed to use the results of their research to create the keys that could unlock the door to "Sanctuary". Those were the thirteen "Divine Keys", which exhausted the Earth's resources and carried the last hopes of mankind.
@@ -22,14 +22,14 @@ Recreating the power of the Herrscher of Flame, the dual pistols harness the ult
 The Xuanyuan sword contains the power of six Herrschers, including Thunder, Flame and Ice. As long as certain conditions are met, it may absorb and fuse the powers of other Herrschers.
 Relying on these thirteen weapons, humanity gradually acquired an advantage in the war against the Honkai-
 <!-- Page 8 --> However, facing the "Last Herrscher", humanity's hope was crushed.
-<!-- Page 9 --> The downfall of mankind was inevitable, but MEI refused to give up.
+<!-- Page 9 --> The downfall of mankind was inevitable, yet MEI refused to give up.
 *clench*
 She knew that when the next civilisation of Earth would be born, the Honkai would surely occur once more. Thus... she planted the "Seeds of Revenge"
-She transcribed her life long research into human genes.
-When these recessive genetic factors would express in the next generation of humans, they would display "stigmata".
+She transcribed her life long research into the human genome.
+When these recessive genetic factors would come to expression in the next generation of humans, they would display "stigmata".
 Young girls with these genetic factors were shielded in safe pods, waiting to be awoken tens of thousands of years into the future.
 <!-- Page 10 --> The twin girls responsible for guarding Xuanyuan Sword were called Fuxi and Nuwa.
-<!-- Page 11 --> Fifty thousand years later, civilisation had been reborn in this land called "Shenzhou", and the Honkai... also awakened.
+<!-- Page 11 --> 50.000 years later, civilisation had been reborn in this land called "Shenzhou", and the Honkai... also awakened.
 The twin girls woke up from their deep sleep and after a long journey, they finally found a warrior fit to inherit the Xuanyuan Sword.
 The moment the girl named Ji Xuanyuan picked up the Xuanyuan Sword, the stigmata imprinted in her bloodline awakened.
 <!-- Page 12 --> And so, between humanity's hatred for the Honkai and Honkai's hatred for humanity, the war of fate had begun once more.
@@ -78,7 +78,7 @@ Not only could she corrupt humans, but she could also control beasts and machine
 Then, her revenge began--
 <!-- Page 14 --> There was a large number of nuclear bombs stored at the base. These were originally meant to be the last resort weapon to use against Herrschers. Now, all nuclear weapons had been launched at the last three remaining cities.
 The three cities were obliterated in an instant, as people and buildings were instantly vaporised by the high temperature of the nuclear explosions.
-Now, there only the 31,022 people left at the base remained.
+Now, only the 31,022 people left at the base remained.
 <!-- Page 15 --> At this time, controlled by the Twelfth Herrscher, the base locked down all exits to the world outside.
 If these loathsome humans were so unwilling to let the innocent girl go, then they should die with her in this tomb!
 However, Dr MEI would not give up without a fight.
@@ -176,3 +176,5 @@ And as civilisation developed, it was once again threatened by the Honkai.
 a white-haired warrior, a giant flaming sword in his left hand, and a baby in his right.
 This man who called himself 'Kaslana' would bring new hope to this Era.
 <!-- Page 26 --> This, 50.000 years in the past, is the story of Kevin Kaslana.
+
+
